@@ -9,7 +9,7 @@ A dataset developed by Bhargav230m that contains comprehensive information on va
 - [Preprocessed Data](https://github.com/Bhargav230m/Planetary-Data-Set/tree/main/PreProcessed_Data)
 - [Raw Data](https://github.com/Bhargav230m/Planetary-Data-Set/tree/main/Datasets)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/Bhargav230m/Planetary-Data-Set/blob/main/LICENSE)
 
 ## About the Dataset
 The "Planetary Data Set" is an open-source repository that provides valuable data on a range of topics, making it a valuable resource for researchers, educators, and enthusiasts. It covers information about planets, books, wars, the universe, data science, and more.
