@@ -8,7 +8,7 @@ A dataset developed by Bhargav230m that contains comprehensive information on va
 - [Data Sources](https://wikipedia.org)
 - [Preprocessed Data](https://github.com/Bhargav230m/Planetary-Data-Set/tree/main/PreProcessed_Data)
 - [Raw Data](https://github.com/Bhargav230m/Planetary-Data-Set/tree/main/Datasets)
-- [Contributing](#contributing)
+- [Contributing]([#contributing](https://github.com/Bhargav230m/Planetary-Data-Set/blob/main/CONTRIBUTING.md))
 - [License](https://github.com/Bhargav230m/Planetary-Data-Set/blob/main/LICENSE)
 
 ## About the Dataset
